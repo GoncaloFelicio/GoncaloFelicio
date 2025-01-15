@@ -4,6 +4,6 @@
 
 - 💻 Data Engineer / Data Scientist in the Netherlands
 - 🤖 I’m currently learning about AI Alignment
-- 🎓 Master's in Mechanical Engineering - Systems
+- 🎓 Master's in Systems Control and Automation - Mechanical Engineering
 - ❤️‍🔥 I enjoy reading, playing oboe, bouldering and running
-- ⚡ Fun fact: New Year's Baby 1998
+- ⚡ Fun fact about me: New Year's Baby 1998
